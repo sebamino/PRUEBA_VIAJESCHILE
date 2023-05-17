@@ -1,0 +1,64 @@
+:root {
+    --dark-success-1: #2999a6;
+    --dark-success-2: #2ea6a6;
+}
+
+
+/** Elementos del Body */
+
+body {
+    text-align: center;
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+}
+
+
+/** Nombre de las clases */
+
+.logo-div-responsive {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.bg-dark-success-1 {
+    background-color: var(--dark-success-1);
+}
+
+.bg-dark-success-2 {
+    background-color: var(--dark-success-2);
+}
+
+.border-dark-success-1 {
+    height: 2px !important;
+    background-color: var(--dark-success-1);
+}
+
+
+/* Imganees del carrusel */
+
+.img-carousel {
+    width: 100%;
+    height: 45vw;
+}
+
+
+/* Imagenes de Viakes */
+
+.img-card-viajes {
+    width: 100%;
+    height: 10vw;
+}
+
+
+/* Barra de navegacion */
+
+.navbar-top {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+.tooltip-inner {
+    background-color: var(--dark-success-2);
+    border: 1px solid #dee2e6 !important;
+}
