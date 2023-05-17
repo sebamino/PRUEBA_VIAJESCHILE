@@ -60,6 +60,6 @@ tooltips, entre otros).
 
 
 ## Authors
-
+**Viajes Chile By SMINOG**
 - [@sebamino](https://github.com/sebamino)
 
